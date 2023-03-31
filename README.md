@@ -23,7 +23,8 @@ The following powerbi features were utilized
 - Conditional column formating in Power Query
 
 ## Modelling
-![]()
+![](Schema.jpg)
+
 There are 5 Dimension tables and 1 fact table
 Automatic relationship was established between  2 dimension tables and the fact table due to the fact that none of the remaining dim_Tables share the same column headers. Hence I used snowflake schema to establish relationship between these tables using DAX function 'USERELATIONSHIP' 
 
@@ -41,23 +42,27 @@ You can interact with the report [here]()
 ## Analysis
 
 ### Overview
-![]()
+![](Overview.jpg)
+
 The company recruited 1,470 employees within the period of 11 years ranging (2012 - 2022), 237 employee left the organization within this period, presently the organization is left with 1,233  employee  which i categorized as 'Active Employee'
 
 
 ### Demography
-![]()
+![](Demography.jpg)
+
 This is a the structure of employee population (Gender, Ethnic Group, Age group)
 Total Number of employee is (1,470), 651 of the employee are male and 675 are female (144 fall into other gender categories)
 Majority of employee are within the age group 20-29
 Mixed or Multiple ethnic groups have one of the lowest salary
 
 ### Performance Tracker
-![]()
+![](performance.jpg)
+
 The maximun performance rating and job satisfaction an employee could get is 5, it was established that an employee with high or relatively high managerial rating will not only perform well on the job but maintain good rapport with colleagues and a proper work life balance
 
 ### Attrition
-![]()
+![](Attrition.jpg)
+
 Employees who are frequent travellers have the highest attrition rate
 
 ## Conlusion and Recomendation
