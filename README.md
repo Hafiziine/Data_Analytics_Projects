@@ -36,7 +36,7 @@ The Report comprises of 4 pages:
 3. Performance Tracker
 4. Employee Attrition
 
-You can interact with the report [here]()
+You can interact with the report [here](https://app.powerbi.com/links/kIN8LVfyv3?ctid=d916f1ec-0709-4234-b482-9cb228e0d997&pbi_source=linkShare)
 ![]()
 
 ## Analysis
