@@ -71,7 +71,7 @@ Although the reasons for attrition are often something you cannot prevent, there
 1. Human Resources department should careully evaluate and establish a proper hiring plan  putting into context how  frequent  an employee need to be on business travels
 2. Periodic survey should be conducted among employees 
 
-**Employees that work Overtime and those who travel frequently have highg attrition rate**
+**Employees that work Overtime and those who travel frequently have high attrition rate**
 
 _For a intensive dive into the analytics, employee resons for attrition(paying under market vale, bad wok envinronment etc) should be included in the datasetd_
 
