@@ -75,6 +75,6 @@ Although the reasons for attrition are often something you cannot prevent, there
 
 **Employees that work Overtime and those who travel frequently have high attrition rate**
 
-_For a intensive dive into the analytics, employee resons for attrition(paying under market vale, bad wok envinronment etc) should be included in the datasetd_
+_For a intensive dive into the analytics, employee resons for attrition(paying under market vale, bad wok envinronment etc) should be included in the dataset_
 
  
