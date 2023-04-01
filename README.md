@@ -36,7 +36,7 @@ The Report comprises of 4 pages:
 3. Performance Tracker
 4. Employee Attrition
 
-You can interact with the report [here](https://app.powerbi.com/links/kIN8LVfyv3?ctid=d916f1ec-0709-4234-b482-9cb228e0d997&pbi_source=linkShare)
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMmUzYmJkYWYtMjk5YS00NWNkLWJlYjMtZmI1OGE4MWM1M2FkIiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9)
 ![]()
 
 ## Analysis
@@ -51,9 +51,11 @@ The company recruited 1,470 employees within the period of 11 years ranging (201
 ![](Demography.jpg)
 
 This is a the structure of employee population (Gender, Ethnic Group, Age group)
-Total Number of employee is (1,470), 651 of the employee are male and 675 are female (144 fall into other gender categories)
-Majority of employee are within the age group 20-29
-Mixed or Multiple ethnic groups have one of the lowest salary
+Total Number of employee is (1,470), 651 of the employees are male and 675 are female (144 fall into other gender categories)
+
+Majority of employees are within the age group 20-29
+
+Mixed or Multiple ethnic groups have one of the lowest salary on average 
 
 ### Performance Tracker
 ![](performance.jpg)
